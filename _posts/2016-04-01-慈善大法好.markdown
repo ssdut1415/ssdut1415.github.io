@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "慈善大法好"
+date:       2014-08-16 12:00:00
+author:     "cxy229"
+header-img: "img/post-bg-miui6.jpg"
+catalog: true
+tags:
+    - test1
+    - test2
+---
+
+### 慈善大法好
+
+### 慈善大法棒
+
+### 慈善大法666

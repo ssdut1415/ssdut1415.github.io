@@ -5,9 +5,9 @@
     <description>discription</description>
     <link>http://ssdut1415.github.io/</link>
     <atom:link href="http://ssdut1415.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Apr 2016 16:26:49 +0800</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2016 16:26:49 +0800</lastBuildDate>
-    <generator>Jekyll v2.2.0</generator>
+    <pubDate>Fri, 01 Apr 2016 17:18:03 +0800</pubDate>
+    <lastBuildDate>Fri, 01 Apr 2016 17:18:03 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Hello 2015</title>
@@ -51,7 +51,7 @@
 
 &lt;p&gt;本来觉得最大的缺点可能是 GitHub 在国内访问起来太慢，所以第二天一起床就到 GitCafe(Chinese GitHub Copy) 迁移了一个&lt;a href=&quot;http://huxpro.gitcafe.io&quot;&gt;镜像&lt;/a&gt;出来，结果还是巨慢。&lt;/p&gt;
 
-&lt;p&gt;哥哥可是个前端好嘛！ 果断开 Chrome DevTool 查了下网络请求，原来是 &lt;strong&gt;pending 在了 Google Fonts&lt;/strong&gt; 上，页面渲染一直被阻塞到请求超时为止，难怪这么慢。  &lt;br /&gt;
+&lt;p&gt;哥哥可是个前端好嘛！ 果断开 Chrome DevTool 查了下网络请求，原来是 &lt;strong&gt;pending 在了 Google Fonts&lt;/strong&gt; 上，页面渲染一直被阻塞到请求超时为止，难怪这么慢。&lt;br /&gt;
 忍痛割爱，只好把 Web Fonts 去了（反正超时看到的也只能是 fallback ），果然一下就正常了，而且 GitHub 和 GitCafe 对比并没有感受到明显的速度差异，虽然 github 的 ping 值明显要高一些，达到了 300ms，于是用 DNSPOD 优化了一下速度。&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -60,13 +60,13 @@
 
 &lt;p&gt;大的 Jekyll 主题上直接 fork 了 Clean Blog（这个主题也相当有名，就不多赘述了。唯一的缺点大概就是没有标签支持，于是我给它补上了。）&lt;/p&gt;
 
-&lt;p&gt;本地调试环境需要 &lt;code&gt;gem install jekyll&lt;/code&gt;，结果 rubygem 的源居然被墙了……后来手动改成了我大淘宝的镜像源才成功&lt;/p&gt;
+&lt;p&gt;本地调试环境需要 &lt;code class=&quot;highlighter-rouge&quot;&gt;gem install jekyll&lt;/code&gt;，结果 rubygem 的源居然被墙了……后来手动改成了我大淘宝的镜像源才成功&lt;/p&gt;
 
 &lt;p&gt;Theme 的 CSS 是基于 Bootstrap 定制的，看得不爽的地方直接在 Less 里改就好了（平时更习惯 SCSS 些），&lt;strong&gt;不过其实我一直觉得 Bootstrap 在移动端的体验做得相当一般，比我在淘宝参与的团队 CSS 框架差多了……&lt;/strong&gt;所以为了体验，也补了不少 CSS 进去&lt;/p&gt;
 
 &lt;p&gt;最后就进入了耗时反而最长的&lt;strong&gt;做图、写字&lt;/strong&gt;阶段，也算是进入了&lt;strong&gt;写博客&lt;/strong&gt;的正轨，因为是类似 Hack Day 的方式去搭这个站的，所以折腾折腾着大半夜就过去了。&lt;/p&gt;
 
-&lt;p&gt;第二天考虑中文字体的渲染，fork 了 &lt;a href=&quot;http://www.typeisbeautiful.com/&quot;&gt;Type is Beautiful&lt;/a&gt; 的 &lt;code&gt;font&lt;/code&gt; CSS，调整了字号，适配了 Win 的渣渲染，中英文混排效果好多了。&lt;/p&gt;
+&lt;p&gt;第二天考虑中文字体的渲染，fork 了 &lt;a href=&quot;http://www.typeisbeautiful.com/&quot;&gt;Type is Beautiful&lt;/a&gt; 的 &lt;code class=&quot;highlighter-rouge&quot;&gt;font&lt;/code&gt; CSS，调整了字号，适配了 Win 的渣渲染，中英文混排效果好多了。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-2&quot;&gt;后记&lt;/h2&gt;
 
@@ -84,6 +84,25 @@
         <guid isPermaLink="true">http://ssdut1415.github.io/2015/01/29/hello-2015/</guid>
         
         <category>生活</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>慈善大法好</title>
+        <description>&lt;h3 id=&quot;section&quot;&gt;慈善大法好&lt;/h3&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;慈善大法棒&lt;/h3&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;慈善大法666&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 16 Aug 2014 20:00:00 +0800</pubDate>
+        <link>http://ssdut1415.github.io/2014/08/16/%E6%85%88%E5%96%84%E5%A4%A7%E6%B3%95%E5%A5%BD/</link>
+        <guid isPermaLink="true">http://ssdut1415.github.io/2014/08/16/%E6%85%88%E5%96%84%E5%A4%A7%E6%B3%95%E5%A5%BD/</guid>
+        
+        <category>test1</category>
+        
+        <category>test2</category>
         
         
       </item>
