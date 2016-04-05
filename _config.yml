@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: true
-weibo_username:     huxpro
+weibo_username:     5346276880
 # zhihu_username:     huxpro
 # github_username:    huxpro
 #twitter_username:  huxpro
@@ -69,7 +69,7 @@ ba_track_id: dd39e4c1c9d0df22f78bb082189edf5f
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "sidebar-about-description"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ssdut1415.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
