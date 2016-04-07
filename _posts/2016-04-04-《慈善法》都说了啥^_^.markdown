@@ -3,7 +3,7 @@ layout:     post
 title:      "《慈善法》都说了啥^_^"
 date:       2016-04-04 12:00:00
 author:     "1415的碗"
-header-img: "img/charity_law"
+header-img: "img/post-charity-law"
 catalog: true
 tags:
     - 慈善法解析

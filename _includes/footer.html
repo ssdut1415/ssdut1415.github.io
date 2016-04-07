@@ -68,6 +68,16 @@
                         </a>
                     </li>
                     {% endif %}
+                    {% if site.weixin_username %}
+                    <li>
+                        <a target="_blank" href="{{site.url}}/img/weixin.jpg">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
                 </ul>
                 <p class="copyright text-muted">
                     Copyright &copy; <a href={{ site.url }}>ssdut1415</a> {{ site.time | date: '%Y' }}
